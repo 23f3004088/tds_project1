@@ -1,7 +1,7 @@
 {
-  "prompt": "A dark symbolic scene of a massive war machine made of rusted metal and weapons, human silhouettes of soldiers walking into one side, while on the other side women and children sit in despair in a broken shelter, barren cracked land and dead trees surrounding them, faint currency notes drifting upward in the smoky sky representing profit from war, heavy smog, muted desaturated tones, cinematic lighting, highly detailed, realistic, no text, no labels, no charts",
+  "prompt": "A surreal scene showing a line of fragile human figures walking forward, each figure with subtle human imperfections and weary expressions, gradually transforming into currency, the transition happening step by step from human form into coins embedded in the body and finally into dense heavy structures of money, the figures appearing worn and vulnerable at the beginning and increasingly rigid and metallic toward the end, the ground faint and fog-covered with minimal hints of destruction, strong contrast where the human side is softly lit with warmer tones while the money-transformed figures appear colder, darker, and heavier with stronger shadows, cinematic lighting, muted desaturated tones, melancholic atmosphere, ultra realistic, highly detailed, no text, no labels, no charts",
   "model": "Gemini",
-  "dataset_name": "UNHCR Global Trends – Forced Displacement",
-  "dataset_url": "https://www.unhcr.org/refugee-statistics/",
-  "insight": "War feeds on human lives while leaving families in suffering and displacement."
+  "dataset_name": "UCDP Battle-Related Deaths Dataset",
+  "dataset_url": "https://ucdp.uu.se/downloads/#section-yearly-1989",
+  "insight": "War systems convert human lives into economic gain, leaving behind loss and displacement."
 }
