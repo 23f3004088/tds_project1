@@ -1,0 +1,7 @@
+{
+  "prompt": "A dark symbolic scene of a massive war machine made of rusted metal and weapons, human silhouettes of soldiers walking into one side, while on the other side women and children sit in despair in a broken shelter, barren cracked land and dead trees surrounding them, faint currency notes drifting upward in the smoky sky representing profit from war, heavy smog, muted desaturated tones, cinematic lighting, highly detailed, realistic, no text, no labels, no charts",
+  "model": "Gemini",
+  "dataset_name": "UNHCR Global Trends – Forced Displacement",
+  "dataset_url": "https://www.unhcr.org/refugee-statistics/",
+  "insight": "War feeds on human lives while leaving families in suffering and displacement."
+}
