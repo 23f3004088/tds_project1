@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic tailor workshop where one mannequin wears a perfectly tailored suit matching its unnatural, contorted posture, in sharp focus. Nearby, a second normal mannequin is attempting to wear the same suit, but the suit fits awkwardly, pulling and misaligning across the body. Shot with a 50mm lens, shallow depth of field, natural lighting, detailed fabric textures, clean mannequin structure, realistic proportions, no distortions, no text, no labels, no diagrams.",
+  "model": "Gemini 3",
+  "concept": "overfitting",
+  "metaphor": "A suit perfectly tailored to a distorted mannequin fails on a normal one, showing memorization without generalization."
+}
